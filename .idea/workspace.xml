@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main.php" line="1" mnemonic="J" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67308eef-36b5-481a-8e0b-45ee216622b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>F:\osumap\Composer-Setup.exe</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ParserToPdf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#6#47#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/TextData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="1191" column="20" selection-start-line="1191" selection-start-column="20" selection-end-line="1191" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dompdf</find>
+      <find>counta</find>
+      <find>configuration</find>
+      <find>tcpdf</find>
+      <find>output()</find>
+      <find>output</find>
+      <find>output(</find>
+      <find>getvalue</find>
+      <find>read</find>
+      <find>save(</find>
+      <find>getcell</find>
+      <find>getvalu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/src/Pdf_impl.php" />
+        <option value="$PROJECT_DIR$/vendor/qq.php" />
+        <option value="$PROJECT_DIR$/vendor/autoload.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/qqq.php" />
+        <option value="$PROJECT_DIR$/src/main.php" />
+        <option value="$PROJECT_DIR$/src/ParserToPdf.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/vendor/tecnickcom/tcpdf" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="127" />
+    <option name="y" value="-18" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="php sheeds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\games\php sheeds" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php sheeds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php sheeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php sheeds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php sheeds" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php sheeds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php sheeds" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/php 5.6.12/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\games\php sheeds\resources" />
+      <recent name="F:\games\php sheeds\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.ParserToPdf.php">
+    <configuration name="ParserToPdf.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/ParserToPdf.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/main.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="qq.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vendor/qq.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="qqq.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/qqq.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.ParserToPdf.php" />
+        <item itemvalue="PHP Script.qqq.php" />
+        <item itemvalue="PHP Script.main.php" />
+        <item itemvalue="PHP Script.qq.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67308eef-36b5-481a-8e0b-45ee216622b1" name="Default Changelist" comment="" />
+      <created>1556377798856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556377798856</updated>
+      <workItem from="1556377800960" duration="684000" />
+      <workItem from="1556378486644" duration="3919000" />
+      <workItem from="1556440366552" duration="838000" />
+      <workItem from="1556510655424" duration="22956000" />
+      <workItem from="1556549370299" duration="8964000" />
+      <workItem from="1556564154516" duration="9406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46767000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11940298" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7361407" visible="true" weight="0.29698858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26385927" side_tool="true" visible="true" weight="0.29698858" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="120" column="34" lean-forward="true" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pdf_impl.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Mpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Dompdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/qq.php" />
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/installed.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="1012" column="33" selection-start-line="1012" selection-start-column="28" selection-end-line="1012" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Calculation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="2735" column="75" selection-start-line="2735" selection-start-column="71" selection-end-line="2735" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qqq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="121" column="25" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="388" column="20" selection-start-line="388" selection-start-column="20" selection-end-line="388" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tecnickcom/tcpdf/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="7548" column="29" selection-start-line="7548" selection-start-column="29" selection-end-line="7548" selection-end-column="29" />
+          <folding>
+            <element signature="e#11#17#1" expanded="true" />
+            <element signature="n#style#0;n#marker#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#marker#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#marker#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#7#13#1" expanded="true" />
+            <element signature="e#22#28#1" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Statistical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="1054" column="27" selection-start-line="1054" selection-start-column="27" selection-end-line="1054" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1191" column="20" selection-start-line="1191" selection-start-column="20" selection-end-line="1191" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/TextData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParserToPdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
